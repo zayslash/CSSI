@@ -1,0 +1,35 @@
+<html>
+
+<head>
+  <title> New Site </title>
+
+
+
+
+
+  <style>
+
+ img {
+align-content: center;
+padding-left: 410px;
+image-resolution: : 10px;
+
+
+ }
+  </style>
+
+
+</head>
+</head>
+
+
+<body >
+
+  <ul>
+    <li><img src="https://s-media-cache-ak0.pinimg.com/736x/f0/a6/59/f0a65906e4a245189ea8c90be37d6888--horror-show-futurama.jpg" alt="toad goals"></li>
+    <li><img src="https://s-media-cache-ak0.pinimg.com/originals/d4/5d/ac/d45dac31ef9d7b8cb07a064d0c6cb75b.png" alt="toad grage"></li>
+    <li><img src="https://i.ytimg.com/vi/64Qq31ucGy0/hqdefault.jpg" alt="toad pres"></li>
+  </ul>
+
+
+</html>

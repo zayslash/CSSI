@@ -1,0 +1,38 @@
+
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
+
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js">
+
+
+
+         </script>
+
+<script src="jsmain.js"></script>
+
+
+
+</head>
+
+<body>
+
+
+  <form name="userGreeting">
+    <label>What is your name?</label>
+   <input type="text" id="username"/>
+      <input type="button" id="ok_button" value="OK"/>
+
+
+
+
+
+  </form>
+<div id = "greetings">
+</div>
+</body>
+
+</html>

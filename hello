@@ -1,0 +1,74 @@
+<html>
+
+<head>
+  <title> New Site </title>
+  <style>
+body {
+
+color: white;
+}
+ img {
+align-content: center;
+padding-left: 410px;
+
+ }
+
+
+.footer.resize{
+width: 200px;
+height: auto;
+
+
+
+}
+
+
+  </style>
+
+
+</head>
+
+
+<body align = "center" bgcolor="Black" >
+
+<h1 align="center"> ZAY SLASH </h1>
+
+<img align="center"   src="http://venture.mcmaster.ca/Camper_Websites/Week_4/Basketball/Hypnotoad-1.gif" >
+
+<h2 align="center" >Summary</h2>
+<p align="center" >I am an actor from Planet X, You might have seen me on Popular shows like Futurama and Family Guy. </p>
+
+<div align="center"> <a href ="photos.html" title = "Slash photos">VIEW PHOTOS</a>
+
+<ol align="center"><h4 align="center">Tallents include</h4></ol>
+<li align="center">Silent Singing </li>
+<li align="center">Silent Starring </li>
+<li align="center">Silent Slaying </li>
+
+<h2 align="center">Hometown</h2>
+Ney York, Subway
+
+<h2 align="center">University</h2>
+Darttoad College
+
+
+<h2 align="center">My Favorite Games</h2>
+<ol align="center">
+  <li align="center">Snakes</li>
+  <li align="center">Worm</li>
+  <li align="center">Chest</li>
+</ol>
+
+
+
+</body>
+
+
+
+
+
+
+<div class ="footer">    <img src="http://siteassets.pagecloud.com/alineinthewater/images/Facebook-icon-ID-5ccfe897-a855-4b95-f8dd-291fe4fc1173.png">                                  </div>
+
+
+</html>

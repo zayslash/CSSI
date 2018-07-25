@@ -1,0 +1,25 @@
+body{
+  font-family:sans;
+
+
+}
+h1 {
+  background-color:#3a4a63;
+  color:white;
+  padding:10px 10px 10px 10px;
+}
+h2 {
+  color:#587096;
+}
+p {
+ text-indent: 2em;
+
+}
+ol {
+
+  background-color:#92b6ef;
+  font-style:italic;
+  padding:20px 30px 20px 30px;
+ color:white;
+
+}
